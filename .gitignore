@@ -1,0 +1,23 @@
+.DS_Store
+*.h5
+*.pth
+*.pyc
+*.pyo
+*.tmp
+.idea/
+.ipynb_checkpoints
+__pycache__/
+output/
+cache/
+mlruns/
+
+# data
+foodsg-233*/
+foodsg-233*.zip
+foodsg-358*/
+foodsg-358*.zip
+dataset*.zip
+dataset*/
+
+# docker
+*.tar
